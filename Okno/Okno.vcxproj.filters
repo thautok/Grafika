@@ -36,4 +36,9 @@
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
+  <ItemGroup>
+    <None Include="..\..\oGLtemplate\wspolne.props">
+      <Filter>Resource Files</Filter>
+    </None>
+  </ItemGroup>
 </Project>
